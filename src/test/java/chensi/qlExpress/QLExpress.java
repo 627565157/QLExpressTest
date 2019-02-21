@@ -1,10 +1,7 @@
 package chensi.qlExpress;
 
-import chensi.qlexpress.BeanExample;
-import chensi.qlexpress.JoinOperator;
 import com.ql.util.express.DefaultContext;
 import com.ql.util.express.ExpressRunner;
-import com.ql.util.express.Operator;
 import org.junit.Test;
 
 public class QLExpress {
